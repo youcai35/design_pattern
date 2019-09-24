@@ -1,4 +1,4 @@
-package com.gyc.creational;
+package com.gyc.creational.singleton;
 
 public class T implements Runnable {
     @Override

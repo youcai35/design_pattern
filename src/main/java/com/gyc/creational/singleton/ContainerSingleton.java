@@ -1,4 +1,4 @@
-package com.gyc.creational;
+package com.gyc.creational.singleton;
 
 import org.apache.commons.lang3.StringUtils;
 

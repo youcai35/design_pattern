@@ -1,4 +1,4 @@
-package com.gyc.creational;
+package com.gyc.creational.singleton;
 
 /**
  * 静态内部类实现单例模式

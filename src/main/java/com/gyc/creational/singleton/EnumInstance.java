@@ -1,4 +1,4 @@
-package com.gyc.creational;
+package com.gyc.creational.singleton;
 
 /**
  * 描述：枚举类实现单例模式

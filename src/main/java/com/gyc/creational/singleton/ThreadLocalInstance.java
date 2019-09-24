@@ -1,4 +1,4 @@
-package com.gyc.creational;
+package com.gyc.creational.singleton;
 
 /**
  * 描述：此种方式不能保证全局唯一，但是能够保证线程单一

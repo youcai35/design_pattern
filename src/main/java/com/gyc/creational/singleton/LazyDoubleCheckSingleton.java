@@ -1,4 +1,4 @@
-package com.gyc.creational;
+package com.gyc.creational.singleton;
 
 /**
  * 描述：懒汉式双重检查单例模式
