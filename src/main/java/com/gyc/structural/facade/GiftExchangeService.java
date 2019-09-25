@@ -1,4 +1,4 @@
-package com.gyc.structural;
+package com.gyc.structural.facade;
 
 public class GiftExchangeService {
     private QualifyService qualifyService = new QualifyService();

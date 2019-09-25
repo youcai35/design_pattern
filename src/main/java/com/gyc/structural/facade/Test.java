@@ -1,4 +1,4 @@
-package com.gyc.structural;
+package com.gyc.structural.facade;
 
 public class Test {
     public static void main(String[] args) {

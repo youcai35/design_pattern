@@ -1,4 +1,4 @@
-package com.gyc.structural;
+package com.gyc.structural.facade;
 
 /**
  * 描述：积分校验
