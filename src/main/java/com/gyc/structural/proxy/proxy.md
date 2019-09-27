@@ -1,0 +1,2 @@
+org.springframework.ProxyFactoryBean
+org.apache.ibatis.binding.MapperProxyFactory
